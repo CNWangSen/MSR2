@@ -8,7 +8,7 @@ import numpy
 import os
 import random
 import time
-
+#fetch
 IS_TRAINING=0
 CONTINUE=0
 
