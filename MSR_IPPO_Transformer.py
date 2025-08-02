@@ -7,7 +7,7 @@ import numpy
 import os
 import random
 import time
-
+#test
 IS_TRAINING=0
 CONTINUE=0
 
